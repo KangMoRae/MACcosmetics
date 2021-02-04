@@ -136,6 +136,7 @@ body{min-width:auto;}
     }
     .con04Box{
         margin-top:10px;
+        height:100%;
     }
     .con04Box li{
         width:calc(50% - 5px);
@@ -144,6 +145,7 @@ body{min-width:auto;}
         margin-bottom:10px;
         background-size:100%;
     }
+    
     .con04Box li:nth-child(2n){margin-right:0;}
     .con04Box li:nth-child(3n){margin-right:10px;}
     .con04Box li:last-child{margin-right:0px;}
